@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+*.xlsx
+*.png
+*.deb
+
+# IDE / Editor specific
+.idea/
+.vscode/
